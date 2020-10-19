@@ -1,2 +1,3 @@
 # offensive-h4cking
-resources , 
+``resources``
+``books, links, etc.....`
